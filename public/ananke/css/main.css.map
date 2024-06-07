@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/Hugo_Sites/my-one-page-site",
+	"sourceRoot": "D:/Hugo_Sites/markdowns/hello",
 	"sources": [
 		"ananke/css/main.css"
 	],
